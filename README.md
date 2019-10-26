@@ -1,5 +1,5 @@
-Data-Visualization_2
-Interactive visualization of a random total revenue. 
+## Data-Visualization_2
+### Interactive visualization of a random total revenue. 
 
 This code generates an interactive visualization of a random total revenue per year. The aim is to compare the revenue per year to a threshold. The threshold is specified by the user by clicking on the figure. 
 An additional button permits to reinitialize the threshold specified. 
